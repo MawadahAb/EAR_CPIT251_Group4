@@ -42,8 +42,6 @@ public class Order {
     }
 
     public void updateOrderStatus(String newStatus) {
-
-        //test
     }
 
     public String trackOrder() {
@@ -53,7 +51,6 @@ public class Order {
 
 
     public void printItems() {
-//test
     }
 
     public static Order findOrderByID(int id) {
