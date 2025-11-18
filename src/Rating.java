@@ -9,5 +9,7 @@ public class Rating {
 
     public Rating rateOrder(int orderId, int ratingValue, String comment) {
         return null;
+
+        //test
     }
 }
